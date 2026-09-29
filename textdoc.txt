@@ -1,9 +1,5 @@
-Text Text Text hmmmmmm
+README
 
+This is s a calorie tracker app, my first mini project while studying at Uni of Southampton!
 
-
-
-
-
-
-bing chicken
+I will learn JS and use react
