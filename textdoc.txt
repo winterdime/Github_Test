@@ -1,5 +1,25 @@
-README
+Goals for this project:
 
-This is s a calorie tracker app, my first mini project while studying at Uni of Southampton!
+technology: React + Nodejs + Tailwind 
 
-I will learn JS and use react
+Function: Calorie tracker:
+
+what to learn:
+
+React
+TypeScript
+Tailwind
+Vite
+
+goals:
+
+Add foods using text or buttons  
+preset meals configuration stored locally 
+Daily target set 
+Progress bar for calories & protein & carbs
+API for nutritional values 
+Weekly /monthly graph of progress
+BMI / TDEE Calc & Fat Loss page
+Local storage for all of this
+Nice dark mode
+AI Agent intergration? sign in?
